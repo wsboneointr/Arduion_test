@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "arduinoisp",
+    "port": "COM13",
+    "sketch": "arduino_lib\\examples\\show_digit_number\\show_digit_number.ino"
+}
