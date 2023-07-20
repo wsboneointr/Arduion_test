@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "arduinoisp",
+    "port": "COM13",
+    "sketch": "arduino_lib\\examples\\get_touched_key\\get_touched_key.ino"
+}
